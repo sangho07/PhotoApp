@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/LEONARDO.JPG/250px-LEONARDO.JPG",
+    "title": "Leonardo da Vinci",
+    "description": "Ông là người có những ý tưởng vượt trước thời đại của mình, đặc biệt là khái niệm về máy bay trực thăng, xe tăng, dù nhảy, sử dụng năng lượng Mặt Trời, máy tính, sơ thảo lý thuyết kiến tạo địa hình, tàu đáy kép, cùng nhiều sáng chế khác. Một vài thiết kế của ông đã được thực hiện và khả thi trong lúc ông còn sống. Ứng dụng khoa học trong chế biến kim loại và trong kỹ thuật ở thời đại Phục Hưng còn đang ở trong thời kỳ trứng nước."
+  },
+  {
+    "id": 1,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Michael_Jackson_in_1988.jpg/250px-Michael_Jackson_in_1988.jpg",
+    "title": "Michael Jackson",
+    "description": "Michael Joseph Jackson (29 tháng 8 năm 1958 – 25 tháng 6 năm 2009) là một nam ca sĩ, nhạc sĩ và vũ công người Mỹ. Với biệt danh Ông hoàng nhạc pop, ông được coi là một trong những nhân vật văn hóa quan trọng nhất thế kỷ 20."
+  },
+  {
+    "id": 2,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pele_by_John_Mathew_Smith.jpg/250px-Pele_by_John_Mathew_Smith.jpg",
+    "title": "Pele",
+    "description": "Edson Arantes do Nascimento (phát âm tiếng Bồ Đào Nha: [ˈɛtsõ (w)ɐˈɾɐ̃tʃiz du nɐsiˈmẽtu]; 23 tháng 10 năm 1940 – 29 tháng 12 năm 2022), được biết đến nhiều nhất với tên Pelé, là một cựu cầu thủ bóng đá nổi tiếng người Brasil. Với biệt danh Vua bóng đá, ông được coi là một trong những cầu thủ bóng đá vĩ đại nhất mọi thời đại. "
+  },
+  {
+    "id": 3,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/260px-Beethoven.jpg",
+    "title": "Beethoven",
+    "description": "Ludwig van Beethoven (phiên âm: Lút-vích van Bét-tô-ven, tháng 12 năm 1770 – 26 tháng 3 năm 1827) là một nhà soạn nhạc cổ điển người Đức. Ông là một hình tượng âm nhạc quan trọng trong giai đoạn giao thời từ thời kỳ âm nhạc cổ điển sang thời kỳ âm nhạc lãng mạn. Ông được coi là Người dọn đường (Wegbereiter) cho thời kỳ âm nhạc lãng mạn. "
+  },
+  {
+    "id": 4,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/LEONARDO.JPG/250px-LEONARDO.JPG",
+    "title": "Leonardo da Vinci",
+    "description": "Ông là người có những ý tưởng vượt trước thời đại của mình, đặc biệt là khái niệm về máy bay trực thăng, xe tăng, dù nhảy, sử dụng năng lượng Mặt Trời, máy tính, sơ thảo lý thuyết kiến tạo địa hình, tàu đáy kép, cùng nhiều sáng chế khác. Một vài thiết kế của ông đã được thực hiện và khả thi trong lúc ông còn sống. Ứng dụng khoa học trong chế biến kim loại và trong kỹ thuật ở thời đại Phục Hưng còn đang ở trong thời kỳ trứng nước."
+  },
+  {
+    "id": 5,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Michael_Jackson_in_1988.jpg/250px-Michael_Jackson_in_1988.jpg",
+    "title": "Michael Jackson",
+    "description": "Michael Joseph Jackson (29 tháng 8 năm 1958 – 25 tháng 6 năm 2009) là một nam ca sĩ, nhạc sĩ và vũ công người Mỹ. Với biệt danh Ông hoàng nhạc pop, ông được coi là một trong những nhân vật văn hóa quan trọng nhất thế kỷ 20."
+  },
+  {
+    "id": 6,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pele_by_John_Mathew_Smith.jpg/250px-Pele_by_John_Mathew_Smith.jpg",
+    "title": "Pele",
+    "description": "Edson Arantes do Nascimento (phát âm tiếng Bồ Đào Nha: [ˈɛtsõ (w)ɐˈɾɐ̃tʃiz du nɐsiˈmẽtu]; 23 tháng 10 năm 1940 – 29 tháng 12 năm 2022), được biết đến nhiều nhất với tên Pelé, là một cựu cầu thủ bóng đá nổi tiếng người Brasil. Với biệt danh Vua bóng đá, ông được coi là một trong những cầu thủ bóng đá vĩ đại nhất mọi thời đại. "
+  },
+  {
+    "id": 7,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/260px-Beethoven.jpg",
+    "title": "Beethoven",
+    "description": "Ludwig van Beethoven (phiên âm: Lút-vích van Bét-tô-ven, tháng 12 năm 1770 – 26 tháng 3 năm 1827) là một nhà soạn nhạc cổ điển người Đức. Ông là một hình tượng âm nhạc quan trọng trong giai đoạn giao thời từ thời kỳ âm nhạc cổ điển sang thời kỳ âm nhạc lãng mạn. Ông được coi là Người dọn đường (Wegbereiter) cho thời kỳ âm nhạc lãng mạn. "
+  }
+]
